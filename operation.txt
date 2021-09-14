@@ -1,1 +1,4 @@
 hiiiiii jobi
+
+what is git?
+why we neeed that?
